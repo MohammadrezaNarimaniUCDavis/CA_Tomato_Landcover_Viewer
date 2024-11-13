@@ -32,8 +32,7 @@ The visualization employs a red palette (`#FF0000`) to represent tomato crops, w
 ## Live Application
 Explore the live application here: [Tomato Landcover Viewer](https://ee-mnarimani.projects.earthengine.app/view/catomatolandcoverviewer)
 
-## Developers
-- **Alireza Pourreza**
+## Developer
 - **Mohammadreza Narimani**
 
 ### Contact
